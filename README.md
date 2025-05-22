@@ -45,7 +45,7 @@ Paste the token into the appropriate field and click `Save Token and Open Integr
 
 ## ✅ Done!
 
-The main integration window will open (`Trello > UTrello Integration > Boards`), and you’ll be able to manage your Trello boards directly inside Unity.
+The main integration window will open (`Tools > UTrello Integration > Boards`), and you’ll be able to manage your Trello boards directly inside Unity.
 
 ---
 
