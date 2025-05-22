@@ -6,7 +6,7 @@ This tool allows you to integrate your Trello boards directly into the Unity Edi
 
 ## 🚀 Getting Started
 
-1. In Unity, go to: `Trello > UTrello Integration > Instructions | Setup`.
+1. In Unity, go to: `Tools > UTrello Integration > Instructions | Setup`.
 
    This will open a step-by-step guide window. All the required external links (such as creating a Power-Up or generating your token) are available as buttons directly in this window.
 
